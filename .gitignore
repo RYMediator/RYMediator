@@ -1,0 +1,7 @@
+RYMediator.xcodeproj/xcuserdata/
+RYMediator.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+RYMediator.xcodeproj/project.xcworkspace/xcuserdata/
